@@ -42,6 +42,14 @@ Code for this project is uploaded.
 * Compile and verify the code in Arduino IDE.
 * After compilation, upload the code to the board.
 * Connect to power supply and the solar panel starts to work and changes the orientation according to the direction of sunlight.
+
+### Screenshots
+
+[Screenshot1](https://bit.ly/4bagHSc) 
+
+[Screenshot2](https://bit.ly/42bZu6C)
+
+[Screenshot3](https://bit.ly/3HxENIV)
 ## References and Acknowledgements
 
 * https://www.youtube.com/watch?v=YC4kIGQYld4&t=1s
