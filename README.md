@@ -6,10 +6,10 @@ A solar panel which changes its orientation or its position based on the directi
 ## Tables of Contents
 | Contents |
 | --------- |
-| ##Components used |
-| ##Installation |
-| ##Steps to be followed | 
-| ##References and Acknowledgements |
+| Components used |
+| Installation |
+| Steps to be followed | 
+| References and Acknowledgements |
 
 ## Components used
 
